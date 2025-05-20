@@ -1,0 +1,16 @@
+wandb_version: 1
+
+cell_type:
+  value: gru
+decoder_layers:
+  value: 2
+dropout:
+  value: 0.1
+embedding_dim:
+  value: 64
+encoder_layers:
+  value: 2
+hidden_size:
+  value: 256
+learning_rate:
+  value: 0.0005
